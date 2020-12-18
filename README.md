@@ -1,9 +1,9 @@
 # Machine_Learning
 Machine Learning Journey
 
-#NaiveBayes1
-- Iris Flower classification
-  Features:Basic Classification of Iris Flowers using Gaussian Naive Bayes
+**NaiveBayes1**
+Markup: * Iris Flower classification
+            *Features:Basic Classification of Iris Flowers using Gaussian Naive Bayes
 - News Article Classification
   Features: 
     Classification using Multinomial Naive Bayes
